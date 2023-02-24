@@ -17,8 +17,18 @@ under development:
 
 ## Run
 
+## Lint
+
+## Docs
+
 ## Tests
 
 ## Debug
 
 ## Architeture
+
+## Change database
+
+## Build to prod
+
+## Environments
